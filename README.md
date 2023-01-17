@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 ## Overview
 In this project I used multiple methods of machine learning in order to predict the risk of a loan. Credit risk is unbalanced because good loans outnumber bad loans, so I employed several techniques to train and evaluate models with unbalanced classes. 
